@@ -1,0 +1,10 @@
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.csproj.AssemblyReference.cache
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\obj\Debug\Standard_Calculator.StandardCalcu.resources
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\obj\Debug\Standard_Calculator.Properties.Resources.resources
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.csproj.GenerateResource.cache
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.csproj.CoreCompileInputs.cache
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.exe.config
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.exe
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.pdb
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.exe
+C:\Users\oohis\Desktop\C#\Standard-Calculator\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.pdb
